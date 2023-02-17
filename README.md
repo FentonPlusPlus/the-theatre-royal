@@ -16,16 +16,20 @@ location: theTheatreRoyal\SQL Files
 a. without spoof data = theatreRoyalvanilla.sql
 b. spoof data = theatreRoyalwithData.sql
 
-1. Open MySQL workbench, either create a new MYSQL connection or click on Local instance 
+1. Open MySQL workbench, either create a new MYSQL connection or click on Local instance
+
 2. There are two ways in which you can insert the chosen SQL(a or b) file into the database:
 	- Right click on the sql file to open with a note editor and copy the enitre code and insert it into a blank query tab
 	- Double click the sql file to open it in MySQL workbench (this may open in an unconnected session so copy the code and insert into a connection created from step 1
+	
 3. Run sql script with the execute button (yellow lightning bolt)
 (database should now be initialised)
 
 Java Project
 4. Now open the java project in an IDE of your choice, file location: theTheatreRoyal\theTheatreRoyal
+
 5. First change the credentials.txt file to match your MYSQL workbench URL, Username and password
+
 6. Run the FrontEndController.java as a java application
 
 
