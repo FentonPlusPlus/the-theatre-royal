@@ -2,9 +2,7 @@
 
 ## This repository contains the code for the Theatre Royal booking system application. It was created with the purpose to solidify our understanding of Java and MySQL, and how to build an application from the ground up.
 This project took us the course of 6 working days to build.
- 
-## Created by team Java Lagged (Fenton & Hiten)
-## Repository created on the 03/07/2022
+Created Fenton & Hiten
 
 Instructions to run project
 
