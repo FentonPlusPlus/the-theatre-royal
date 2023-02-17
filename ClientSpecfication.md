@@ -1,0 +1,3 @@
+## Client Specification
+
+The task is to create a new booking system for a theatre company called the Theatre Royal. The user interface will be a text-based screen using the console. The application should allow users to browse through a list of shows, see information such as times, a description, how many performances of the show and prices of tickets. Users should then be able to purchase tickets of a show and have their credentials checked against the system. All of this must use a MySQL database which is updated accoridngly based on user interaction. 
