@@ -2,9 +2,9 @@
 
 ## This repository contains the code for the Theatre Royal booking system application. It was created with the purpose to solidify our understanding of Java and MySQL, and how to build an application from the ground up.
 This project took us the course of 6 working days to build.
-Created Fenton & Hiten
+Created by Fenton & Hiten.
 
-Instructions to run project
+###Instructions to run project
 
 To start the project first initialise the SQL database. There are two ways to do this:
 1. Run the SCRIPTtheatrebooking SQL file in the main folder, or import one of the SQL databases in the SQL Files folder. There are two databases within this folder. One contains spoof data for testing and the other is without spoof data
